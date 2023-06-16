@@ -15,8 +15,8 @@ const quotes=[{
 
 },
 {
-    quote:"Get busy living or get busy dying.",
-    perosn:'Stephon King'
+    quote: "Get busy living or get busy dying.",
+    perosn: 'Stephon King'
 },
 {
     quote: "If you want to live a happy life, tie it to a goal, not to people or things.",
@@ -35,8 +35,8 @@ const quotes=[{
     person:'Soren Kierkegaard'
 },
 {
-    quote:"Everybody wants to be famous, but nobody wants to do the work. I live by that. You grind hard so you can play hard. Eventually, your hard work will pay off.",
-    perosn:'Kevin cart'
+    quote: "Everybody wants to be famous, but nobody wants to do the work. I live by that. You grind hard so you can play hard. Eventually  your hard work will pay off.",
+    perosn: 'Kevin cart'
 },
 {
     quote:"Everything negative ,pressure, challenges,is all an opportunity for me to rise." ,
